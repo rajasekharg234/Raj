@@ -6,3 +6,6 @@ git add
 git commit
 git push
 git pull
+git branching
+git merging
+git rebasing
