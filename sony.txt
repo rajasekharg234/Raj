@@ -1,0 +1,5 @@
+git clone https://github.com/username/repository name.git
+git add filename
+git status
+git commit -m "commit message"
+git push
