@@ -1,0 +1,6 @@
+git rm filename
+git commit -m "commit message"
+git push
+git diff 
+git stash
+git mv filename filename1
