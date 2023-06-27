@@ -3,3 +3,6 @@ git add filename
 git status
 git commit -m "commit message"
 git push
+git log filename
+git show commit id
+git commit -am "commit message"
