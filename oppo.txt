@@ -1,6 +1,6 @@
 git branch
 git branch branchname
-git checkout branch
+git checkout branchna
 git checkout -b branchname
 git push
 git branch -r
