@@ -1,0 +1,8 @@
+git branch
+git branch branchname
+git checkout branchname
+git checkout -b branchname
+git push
+git branch -r
+git branch -d branchname
+git push origin -d branchname
