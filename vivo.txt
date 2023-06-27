@@ -1,0 +1,7 @@
+git stash
+git stash save "stashing message"
+git stash apply
+git stash show
+git stash pop
+git stash drop
+git stash clear
